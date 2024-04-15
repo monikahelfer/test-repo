@@ -8,7 +8,7 @@ More text
 
 Some more text
 
-Additional text
+Additional text text text
 
 One more line with more text and additional description
 
