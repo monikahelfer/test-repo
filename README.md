@@ -11,3 +11,7 @@ Some more text
 Additional text
 
 One more line with more text and additional description
+
+# Chapter 3
+
+Some text
